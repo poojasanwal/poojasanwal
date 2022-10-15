@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey 👋, I'm Pooja Sanwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A self-taught frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojasanwal&label=Profile%20views&color=0e75b6&style=flat" alt="poojasanwal" /> </p>
 
@@ -24,6 +24,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/poojasanwal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="poojasanwal" /></a></p><br><br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=poojasanwal&show_icons=true&locale=en" alt="poojasanwal" /></p><br><br>
-
+<h3 align="left">Github stats:</h3>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=poojasanwal&show_icons=true&locale=en" alt="poojasanwal" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=poojasanwal&" alt="poojasanwal" /></p>
