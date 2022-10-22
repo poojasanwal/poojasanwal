@@ -1,10 +1,17 @@
 
-<h1 align="center">Hey 👋, I'm Pooja Sanwal!</h1>
+<h1 align="center">Hey, 👋 I'm Pooja Sanwal!</h1>
 <h3 align="center">A self-taught frontend developer from India.</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=poojasanwal&label=Profile%20views&color=0e75b6&style=flat" alt="poojasanwal" /> </p>
+<ul>
+<li>I am a final year bachelor's student in Delhi, India.</li>
+<li>I am learning to code by building one project at a time and contributing to open source.</li>
+<li>I am currently learning JavaScript and Java.</li>
+<li>Let's connect and collaborate! Find my socials below:</li>
+</ul>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poojasanwal" alt="poojasanwal" /></a> </p>
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=poojasanwal&label=Profile%20views&color=0e75b6&style=flat" alt="poojasanwal" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poojasanwal" alt="poojasanwal" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/poojaasanwal" target="_blank"><img src="https://img.shields.io/twitter/follow/poojaasanwal?logo=twitter&style=for-the-badge" alt="poojaasanwal" /></a> </p>
 
