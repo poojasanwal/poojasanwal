@@ -9,9 +9,9 @@
 <li>Let's connect and collaborate! Find my socials below:</li>
 </ul>
 
-<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=poojasanwal&label=Profile%20views&color=0e75b6&style=flat" alt="poojasanwal" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=poojasanwal&label=Profile%20views&color=0e75b6&style=flat" alt="poojasanwal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poojasanwal" alt="poojasanwal" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poojasanwal" alt="poojasanwal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/poojaasanwal" target="_blank"><img src="https://img.shields.io/twitter/follow/poojaasanwal?logo=twitter&style=for-the-badge" alt="poojaasanwal" /></a> </p>
 
