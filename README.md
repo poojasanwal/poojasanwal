@@ -2,12 +2,12 @@
 <h1 align="center">Hey, 👋 I'm Pooja Sanwal!</h1>
 <h3 align="center">A self-taught frontend developer from India.</h3>
 
-<ul>
+<!-- <ul>
 <li>I am a final year bachelor's student in Delhi, India.</li>
 <li>I am learning to code by building one project at a time and contributing to open source.</li>
 <li>I am currently learning JavaScript and Java.</li>
 <li>Let's connect and collaborate! Find my socials below:</li>
-</ul>
+</ul> -->
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=poojasanwal&label=Profile%20views&color=0e75b6&style=flat" alt="poojasanwal" /> </p>
 
