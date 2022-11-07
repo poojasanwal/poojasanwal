@@ -2,6 +2,8 @@
 <h1 align="center">Hey, 👋 I'm Pooja Sanwal!</h1>
 <h3 align="center">A self-taught frontend developer from India.</h3>
 
+[![@poojasanwal's Holopin board](https://holopin.me/poojasanwal)](https://holopin.io/@poojasanwal)
+
 <ul>
 <li>I am a final year bachelor's student in Delhi, India.</li>
 <li>I am learning to code by building one project at a time and contributing to open source.</li>
