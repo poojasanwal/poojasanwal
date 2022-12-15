@@ -1,12 +1,12 @@
 
 <h1 align="center">Hey, 👋 I'm Pooja Sanwal!</h1>
-<h3 align="center">A self-taught frontend developer from India.</h3>
+<!-- <h3 align="center">A self-taught frontend developer from India.</h3> -->
 
 <ul>
-<li>I am a final year bachelor's student in Delhi, India.</li>
-<li>I am learning to code by building one project at a time and contributing to open source.</li>
-<li>I am currently learning JavaScript and Java.</li>
-<li>Let's connect and collaborate!</li>
+<li>I am currently working at We Make Devs as an Event Manager and building my own community called CoCode.</li>
+<li>I love managing communities as it gives me a chance to work with people and help them in whatever capacity that I can. </li>
+<li>I am learning and practicising front-end web development.</li>
+<li>Learn more below and feel free to reach out:</li>
 </ul>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=poojasanwal&label=Profile%20views&color=0e75b6&style=flat" alt="poojasanwal" /> </p>
