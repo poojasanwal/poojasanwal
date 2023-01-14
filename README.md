@@ -3,10 +3,10 @@
 <!-- <h3 align="center">A self-taught frontend developer from India.</h3> -->
 
 <ul>
-<li>I am currently working at We Make Devs as an Event Manager and building my own community called CoCode.</li>
+<li>I am currently working at We Make Devs as a Technical Writer and building my own community called CoCode.</li>
 <li>I love managing communities as it gives me a chance to work with people and help them in whatever capacity that I can. </li>
 <li>I am learning and practicising front-end web development.</li>
-<li>Learn more below and feel free to reach out!</li>
+<li>Learn more below and feel free to reach out to me on Twitter or LinkedIn!</li>
 </ul>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=poojasanwal&label=Profile%20views&color=0e75b6&style=flat" alt="poojasanwal" /> </p>
