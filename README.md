@@ -1,13 +1,14 @@
 
-<h1 align="center">Hey, How did you land here? Anyway, Hi I'm Pooja Sanwal!</h1>
+<h1 align="center">Hey, How did you land here?</h1>
 <!-- <h3 align="center">A self-taught frontend developer from India.</h3> -->
 
 <ul>
+<li>Hi, I'm Pooja Sanwal!</li>
 <li>I am a community manager/advocate with experience  in online program management and in-person events.</li>
 <li>We are moving towards a community-led startup world and I help organizations build exactly that. The best product won't win. The product with the most engaged community will. </li> 
 <li> I love to take initiative and I work best in an autonomous environment where I can be a self-starter. </li>
 <li>I love to work with people, connect with them, collaborate and create an impact bigger than myself. </li>
-<li>I have many intersectional interests like Product management, community marketing, video content creation etc and it is almost a problem to keep track of the things I am interested in lol.</li>
+<li>I have many intersectional interests like Product management, design, community marketing, content creation etc</li>
 <li>Feel free to reach out to me on Twitter or LinkedIn!</li>
 </ul>
 
