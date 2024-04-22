@@ -1,12 +1,11 @@
 
-<h1 align="center">hey, how did you land here?</h1>
+<h1 align="center">hi, how did you land here?</h1>
 <!-- <h3 align="center">A self-taught frontend developer from India.</h3> -->
 
 <ul>
 <li>hi, i'm pooja sanwal - a community manager/advocate.</li>
 <li>we are moving towards a community-led startup world and i help organizations build exactly that - the best product won't win; the product with the most engaged community will. </li> 
 <li>i code once in a while for myself.</li>
-<li>learn more about me <a href="https://www.poojasanwal.com/" target="_blank">here.</a></li>
 <li>reach out to me through <a href="https://twitter.com/poojaasanwal" target="_blank">twitter(x)</a> dms or write to sanwalp20@gmail.com.</li>
 </ul>
 
