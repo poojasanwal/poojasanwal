@@ -7,7 +7,7 @@
 <li>we are moving towards a community-led startup world and i help organizations build exactly that - the best product won't win; the product with the most engaged community will. </li> 
 <li>i code once in a while for myself.</li>
 <li>learn more about me <a href="https://www.poojasanwal.com/" target="_blank">here.</a></li>
-<li>reach out to me through twitter(x) dms or write to sanwalp20@gmail.com.</li>
+<li>reach out to me through <a href="https://twitter.com/poojaasanwal" target="_blank">twitter(x)</a> dms or write to sanwalp20@gmail.com.</li>
 </ul>
 
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=poojasanwal&label=Profile%20views&color=0e75b6&style=flat" alt="poojasanwal" /> </p>
