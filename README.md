@@ -2,12 +2,12 @@
 <h1 align="center">hi, how did you land here?</h1>
 <!-- <h3 align="center">A self-taught frontend developer from India.</h3> -->
 
-<ul>
-<li>i'm pooja sanwal - a community manager/advocate.</li>
-<li>we are moving towards a community-led startup world and i help organizations build exactly that - the best product won't win; the product with the most engaged community will. </li> 
-<li>i code once in a while for myself.</li>
-<li>reach out to me through <a href="https://twitter.com/poojaasanwal" target="_blank">twitter(x)</a> dms or write to sanwalp20@gmail.com.</li>
-</ul>
+<p>
+  <b>Hi! I'm Pooja—a marketer with expertise in social media, content, and community.</b> <br><br>
+  In the past two years of working full-time, I have tinkered with words, videos, communities, and social media—in developer-first environments. In the two years before that, I wrote SEO-optimized blogs for a bunch of businesses. After four years of working on different aspects of marketing, my forte is now social media, content creation, and community management. <br><br>
+  Check out some of my published work here ⇒ https://bit.ly/pooja-sanwal-portfolio
+<br><br>
+Reach out to me on <a href="https://twitter.com/poojaasanwal" target="_blank">Twitter(X)</a> or write to sanwalp20@gmail.com. </p>
 
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=poojasanwal&label=Profile%20views&color=0e75b6&style=flat" alt="poojasanwal" /> </p>
 
