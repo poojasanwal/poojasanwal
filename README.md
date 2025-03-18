@@ -1,5 +1,5 @@
 
-<h1 align="center">hi, how did you land here?</h1>
+<!-- <h1 align="center">hi, how did you land here?</h1>
 <!-- <h3 align="center">A self-taught frontend developer from India.</h3> -->
 
 <p>
