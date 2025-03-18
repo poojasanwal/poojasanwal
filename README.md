@@ -5,7 +5,7 @@
 <p>
   <b>Hi! I'm Pooja—a marketer with expertise in social media, content, and community.</b> <br><br>
   In the past two years of working full-time, I have tinkered with words, videos, communities, and social media—in developer-first environments. In the two years before that, I wrote SEO-optimized blogs for a bunch of businesses. After four years of working on different aspects of marketing, my forte is now social media, content creation, and community management. <br><br>
-  Check out some of my published work <a href="https://poojasanwal.notion.site/Pooja-Sanwal-1441ca246c3a80fcb20acc6af225867e" target="_blank"> here. </a>
+  Check out some of my published work <a href="https://poojasanwal.notion.site/Pooja-Sanwal-1ba1ca246c3a80fca107d4fc1556cc86" target="_blank"> here. </a>
 <br><br>
 Reach out to me on <a href="https://twitter.com/poojaasanwal" target="_blank">Twitter(X)</a> or write to sanwalp20@gmail.com. </p>
 
