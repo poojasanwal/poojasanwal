@@ -3,9 +3,16 @@
 <!-- <h3 align="center">A self-taught frontend developer from India.</h3> -->
 
 <p>
-  <b>Hi! I'm Pooja—a marketer with expertise in social media, content, and community.</b> <br><br>
-  In the past two years of working full-time, I have tinkered with words, videos, communities, and social media—in developer-first environments. In the two years before that, I wrote SEO-optimized blogs for a bunch of businesses. After four years of working on different aspects of marketing, my forte is now social media, content creation, and community management. <br><br>
-  Check out some of my published work <a href="https://poojasanwal.notion.site/Pooja-Sanwal-1ba1ca246c3a80fca107d4fc1556cc86" target="_blank"> here. </a>
+  <h3> Hi! I am Pooja 🐞 </h3> <hr>
+ I work as a developer comunity manager at DigitalOcean. <br><br>
+
+  More specifically, I work in the <a href="https://www.cloudways.com/en/">Cloudways</a> team at DigitalOcean. 
+  
+  My role includes managing brand community forums like Reddit, hosting a YouTube podcast, organizing + hosting meetups, and speaking at conferences to represent Cloudways. 
+  
+  My goal for the next 6-12 months is to build technical competence and build internal tools and fun projects. I am documenting this journey, starting September 2026, here on GitHub.
+  
+  You can check out some of my <a href="https://poojasanwal.notion.site/Pooja-Sanwal-1ba1ca246c3a80fca107d4fc1556cc86" target="_blank"> published work</a> here.
 <br><br>
 Reach out to me on <a href="https://twitter.com/poojaasanwal" target="_blank">Twitter(X)</a> or write to sanwalp20@gmail.com. </p>
 
