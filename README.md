@@ -8,8 +8,6 @@
   
   My work includes managing brand community forums like <a href="https://www.reddit.com/r/CloudwaysbyDO/">Reddit</a>, hosting a <a href="https://youtube.com/playlist?list=PLprEfEYO7V8iOy_0gtCahrO-aUInARUM6&si=XBwqiIks7c_30XA1">YouTube podcast</a>, organizing + hosting <a href="https://www.linkedin.com/posts/pooja-sanwal_hosted-a-meet-up-in-bangalore-after-25-years-ugcPost-7490056855218630658-GTE1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADE9whUBiVAIJOWwh9ZyuonEWlNeiHipOPQ">meetups</a>, and speaking at conferences to represent Cloudways. Most recently, I presented a talk at WordCamp Europe 2026 about <a href="https://youtu.be/Xj4HJi55LvA?si=xsOzk8WaeNVY9uzd"> Why Writing Still Matters in a Video-first Internet</a>. If you're a marketer, you might like it.
   
-  My goal for the next 6-12 months is to build technical competence and build internal tools and fun projects. I am documenting this journey, starting September 2026, here on GitHub.
-  
   You can check out some of my <a href="https://poojasanwal.notion.site/Pooja-Sanwal-1ba1ca246c3a80fca107d4fc1556cc86" target="_blank"> published work</a> here.<br><br>
 If you'd like to have a chat, reach out to me on <a href="https://twitter.com/poojaasanwal" target="_blank">Twitter(X)</a> or write to sanwalp20@gmail.com. </p>
 
